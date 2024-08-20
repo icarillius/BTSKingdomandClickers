@@ -1,0 +1,80 @@
+Built to scale
+
+Tower Defence
+
+Dragons defending a castle
+
+against giant humans trying to attack it
+
+//you can build, gain resources DONE
+
+//Enemy attacks parts of the castle DONE
+
+//END SCREEN - Some element of agency added + Sass DONE
+
+//Develop art style DONE
+
+//Splash Screen to start the game. DONE
+
+//Building pass for the level DONE
+
+//Particle Effect for the NPC and Soldiers MUST - DONE
+
+//VFX when areas break / blow up? DONE ISH // COULD DO WITH A PASS
+
+//VFX of Arrows shooting from areas Done
+
+//FONT -  need a font for the game... DONE
+
+UI pass - DONE
+
+Audio Drum music, theme song, Win/lose music, audio of people dying. DONE
+
+Research building to update and create better options? DONE
+
+Balance...
+
+Gold Coins SET
+
+Troops SET
+
+Research SET
+
+Enemy Power RGN
+
+Castle upgrade to win RGN
+
+Capitulate Gold. RGN
+
+Splash Screen  DONE
+
+ICO DONE
+
+
+3D models
+Walls DONE
+Tower DONE
+Gate House DONE
+Mine DONE
+Barracks DONE
+Castle DONE
+
+
+End Games
+Castle Win  0
+Run out of Enemies  1
+Surrendered 2
+Surrendered 3
+Surrendered 4
+Castle Loss 5
+6
+
+
+
+
+
+
+--- WORK
+
+GAME PLAY TAGS MY GOD!
+
